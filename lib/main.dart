@@ -41,7 +41,7 @@ class ProfilePage extends StatelessWidget {
                   height: kToolbarHeight + 5, // same as AppBar height + divider
                   decoration: const BoxDecoration(
                     gradient: LinearGradient(
-                      colors: [Color.fromARGB(255, 79, 79, 79), Color.fromARGB(255, 65, 107, 68)],
+                      colors: [Color(0xFF8E24AA), Color(0xFF1B5E20)],
                       begin: Alignment.topLeft,
                       end: Alignment.bottomRight,
                     ),
