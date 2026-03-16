@@ -179,7 +179,7 @@ class ProfilePage extends StatelessWidget {
                                   color: Color(0xFF1B5E20),
                                 ),
                                 title: Text(
-                                  'Alydzustre25@gmail.com',
+                                  'asdasdasd%gmaiu;.copm',
                                   style: TextStyle(
                                     fontSize: 17,
                                     fontWeight: FontWeight.w500,
